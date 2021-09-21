@@ -1,0 +1,1603 @@
+@media only screen and (min-width: 1681px) and (max-width: 1920px) {
+    form {
+        background-image: -webkit-linear-gradient(0deg, rgba(46, 59, 124, 0.1) 0%, rgba(125, 41, 104, 0.1) 100%);
+        border-radius: 5px;
+        margin-right: 70px;
+    }
+    .banner-text {
+        padding-left: 70px;
+    }
+    .col-xs-12.barbox {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+    nav.navbar.navbar-expand-lg.mainnav {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        background: rgba(46, 59, 124, 0.1);
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+    .form-item {
+        width: 50%;
+    }
+    .form-input {
+        display: flex;
+        width: 95%;
+        height: 45px;
+        justify-content: space-between;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 83%;
+        padding-left: 10px;
+    }
+    .row.threeboxrow {
+        align-items: center;
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+}
+@media only screen and (min-width: 1441px) and (max-width: 1680px) {
+    form {
+        background-image: -webkit-linear-gradient(0deg, rgba(46, 59, 124, 0.1) 0%, rgba(125, 41, 104, 0.1) 100%);
+        border-radius: 5px;
+        margin-right: 70px;
+    }
+    .banner-text {
+        padding-left: 70px;
+    }
+    .col-xs-12.barbox {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+    nav.navbar.navbar-expand-lg.mainnav {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        background: rgba(46, 59, 124, 0.1);
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+    .form-item {
+        width: 50%;
+    }
+    .form-input {
+        display: flex;
+        width: 95%;
+        height: 45px;
+        justify-content: space-between;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 83%;
+        padding-left: 10px;
+    }
+}
+@media only screen and (min-width: 1341px) and (max-width: 1440px) {
+    .banner-form {
+        padding: 42px;
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .form-item {
+        width: 48%;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 82%;
+        padding-left: 10px;
+    }
+    span.form-icon {
+        background-color: #2e3b7c;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        padding: 13px;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        flex: 1;
+        width: 40px;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1340px) {
+    .banner-form {
+        padding: 32px;
+        margin-right: 13px;
+        margin-left: 13px;
+    }
+    .form-item {
+        width: 48%;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 82%;
+        padding-left: 10px;
+    }
+    span.form-icon {
+        background-color: #2e3b7c;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        padding: 13px;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        flex: 1;
+        width: 40px;
+    }
+    .form-input {
+        display: flex;
+        width: 98%;
+        height: 45px;
+        justify-content: space-between;
+    }
+}
+@media only screen and (min-width: 1025px) and (max-width: 1199px) {
+    .form-item {
+        width: 50%;
+    }
+    .form-input {
+        display: flex;
+        width: 95%;
+        height: 45px;
+        justify-content: space-between;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 95%;
+        padding-left: 10px;
+    }
+    .banner-form {
+        padding: 12px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+    .form-item {
+        width: 50%;
+    }
+    .form-input {
+        display: flex;
+        width: 95%;
+        height: 45px;
+        justify-content: space-between;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 95%;
+        padding-left: 10px;
+    }
+    .banner-form {
+        padding: 12px;
+    }
+}
+
+/*768-992*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .togglebtndiv {
+        width: 34%;
+        padding-top: 10px;
+    }
+    ul.navbar-nav.ms-auto.liitem {
+        text-align: center;
+        padding-top: 30px;
+    }
+    a.navbar-brand.logoa {
+        padding-left: 222px;
+        width: 66%;
+        margin: 0;
+    }
+    span.mobile-hiddden {
+        display: none;
+    }
+    .row.mainrow {
+        display: block;
+        padding-top: 20px;
+        align-items: center;
+    }
+    /*header text and form start*/
+    .col-xs-12.col-sm-6.textdiv {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-6.formdiv {
+        width: 100%;
+    }
+    .banner-text h1 {
+        font-size: 28px;
+        font-weight: 900;
+        color: #fff;
+    }
+    section.header {
+        border-bottom-left-radius: 2rem;
+        border-bottom-right-radius: 2rem;
+        height: 1541px;
+    }
+    .form-row {
+        display: block;
+        justify-content: space-between;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 88%;
+        padding-left: 10px;
+    }
+    .form-input {
+        display: flex;
+        width: 100%;
+        height: 45px;
+        justify-content: space-between;
+    }
+    .form-item {
+        width: 100%;
+        padding-top: 36px;
+    }
+    button.form-submit-button {
+        width: 100%;
+    }
+    .form-row.btnrow {
+        padding: 0;
+        padding-top: 20px;
+    }
+    .banner-form {
+        padding: 42px;
+        margin-top: 85px;
+    }
+    /*header text and form end*/
+    /*fact start*/
+    .row.factrow {
+        padding-top: 32px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.factimg {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-6.factxt {
+        width: 100%;
+    }
+    .facttextbox h3 {
+        font-size: 24px;
+        font-weight: 600;
+        color: #273164;
+    }
+    .facttextbox {
+        padding-left: 58px;
+    }
+
+    /*fact end*/
+    /*projected section start*/
+    .box p {
+        font-size: 14px;
+        font-weight: 900;
+        line-height: 20px;
+        color: white;
+        padding-top: 6px;
+    }
+    /*projected section end*/
+
+    /*benefit section start*/
+
+    .col-xs-12.col-sm-6.fitcol {
+        padding-right: 30px;
+        padding-left: 0px;
+        width: 100%;
+    }
+    .row.fitrow {
+        display: block;
+    }
+    .benefits-list li {
+        font-weight: 600;
+        font-size: 16px;
+        background-color: #f6f6f9;
+        padding: 20px;
+        margin: 30px 0;
+        width: 100%;
+        position: relative;
+    }
+
+    /*benefit section end*/
+
+    /*about section start*/
+
+    .row.aboutrow {
+        padding: 110px 0px;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.abtdiv {
+        width: 100%;
+    }
+
+    /*about section end*/
+
+    /*contact section start*/
+
+    .row.contactrow {
+        width: 100%;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.contactcol {
+        width: 100%;
+    }
+    .contactimgbox img {
+        width: 100%;
+    }
+    .contactimgbox {
+        padding-left: 20px;
+    }
+    input.req.con {
+        color: #2e3b7c;
+        border: 1px solid #2e3b7c;
+        border-radius: 10px;
+        width: 85%;
+    }
+    .form-input.con-in {
+        width: 100%;
+    }
+    .form-item.con-input {
+        width: 100%;
+    }
+    .form-input.con-in textarea {
+        color: #2e3b7c;
+        border: 1px solid #2e3b7c;
+        border-radius: 10px;
+        padding: 15px;
+        width: 89%;
+        height: 185px;
+    }
+    .form-input button {
+        width: 31%;
+        border: none;
+        border-radius: 10px;
+        padding: 8px 14px;
+        background: #37397a;
+        color: white;
+        font-size: 18px;
+        font-weight: 600;
+        height: 52px;
+        margin-top: 30px;
+    }
+    .contactformbox {
+        padding-left: 132px;
+        padding-top: 40px;
+    }
+
+    /*contact section end*/
+
+    /*quote section start*/
+    .row.get-quoterew {
+        padding: 30px 1px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-8.quoterow {
+        width: 100%;
+    }
+    .getquotetextbox h4 {
+        font-size: 22px;
+        font-weight: 600;
+        color: white;
+        line-height: 40px;
+        margin: 0;
+    }
+    .col-xs-12.col-sm-4.quoterow {
+        width: 100%;
+    }
+    .getquotebtnbox button {
+        width: 42%;
+    }
+
+    /*quote section end*/
+
+    /*quick link  start*/
+    .row.quickrwo {
+        padding: 100px 0px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-7.quickcol {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-5.quickcol {
+        width: 100%;
+    }
+    .quicktextbox p {
+        font-size: 14px;
+        color: #2e3b7c;
+        line-height: 28px;
+        margin: 0;
+        text-align: center;
+    }
+    .quicklinkbox {
+        float: none;
+        text-align: center;
+        padding-top: 50px;
+    }
+    ul.quickfooer {
+        padding: 0;
+    }
+    .quicklinkbox h5 {
+        color: #2e3b7c;
+        padding-bottom: 30px;
+        font-size: 18px;
+    }
+
+    /*quick link end*/
+}
+/*576-768*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    span.mobile-hiddden {
+        display: none;
+    }
+    a.navbar-brand.logoa {
+        padding-left: 96px;
+        width: 63%;
+    }
+    .togglebtndiv {
+        width: 34%;
+        padding-top: 10px;
+    }
+    ul.navbar-nav.ms-auto.liitem {
+        text-align: center;
+        padding-top: 30px;
+    }
+    /*header text and form start*/
+    .col-xs-12.col-sm-6.textdiv {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-6.formdiv {
+        width: 100%;
+    }
+    .banner-text h1 {
+        font-size: 28px;
+        font-weight: 900;
+        color: #fff;
+    }
+    section.header {
+        border-bottom-left-radius: 2rem;
+        border-bottom-right-radius: 2rem;
+        height: 1390px;
+    }
+    .form-row {
+        display: block;
+        justify-content: space-between;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 88%;
+        padding-left: 10px;
+    }
+    .form-input {
+        display: flex;
+        width: 100%;
+        height: 45px;
+        justify-content: space-between;
+    }
+    .form-item {
+        width: 100%;
+        padding-top: 36px;
+    }
+    button.form-submit-button {
+        width: 100%;
+    }
+    .form-row.btnrow {
+        padding: 0;
+        padding-top: 20px;
+    }
+
+    /*header text and form end*/
+    /*fact start*/
+    .row.factrow {
+        padding-top: 32px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.factimg {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-6.factxt {
+        width: 100%;
+    }
+    .facttextbox h3 {
+        font-size: 24px;
+        font-weight: 600;
+        color: #273164;
+    }
+    .facttextbox {
+        padding-left: 58px;
+    }
+
+    /*fact end*/
+    /*projected section start*/
+    .box p {
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 20px;
+        color: white;
+        padding-top: 6px;
+    }
+    /*projected section end*/
+
+    /*benefit section start*/
+
+    .col-xs-12.col-sm-6.fitcol {
+        padding-right: 30px;
+        padding-left: 0px;
+        width: 100%;
+    }
+    .row.fitrow {
+        display: block;
+    }
+    .benefits-list li {
+        font-weight: 600;
+        font-size: 16px;
+        background-color: #f6f6f9;
+        padding: 20px;
+        margin: 30px 0;
+        width: 100%;
+        position: relative;
+    }
+    .fitborder {
+        width: 16%;
+        height: 5px;
+        background-color: #7d2968;
+        margin: auto;
+        border-radius: 10px;
+    }
+
+    /*benefit section end*/
+
+    /*about section start*/
+
+    .row.aboutrow {
+        padding: 110px 0px;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.abtdiv {
+        width: 100%;
+    }
+
+    /*about section end*/
+
+    /*contact section start*/
+
+    .row.contactrow {
+        width: 100%;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.contactcol {
+        width: 100%;
+    }
+    .contactimgbox img {
+        width: 100%;
+    }
+    .contactimgbox {
+        padding-left: 20px;
+    }
+    input.req.con {
+        color: #2e3b7c;
+        border: 1px solid #2e3b7c;
+        border-radius: 10px;
+        width: 85%;
+    }
+    .form-input.con-in {
+        width: 100%;
+    }
+    .form-item.con-input {
+        width: 100%;
+    }
+    .form-input.con-in textarea {
+        color: #2e3b7c;
+        border: 1px solid #2e3b7c;
+        border-radius: 10px;
+        padding: 15px;
+        width: 89%;
+        height: 185px;
+    }
+    .form-input button {
+        width: 31%;
+        border: none;
+        border-radius: 10px;
+        padding: 8px 14px;
+        background: #37397a;
+        color: white;
+        font-size: 18px;
+        font-weight: 600;
+        height: 52px;
+        margin-top: 30px;
+    }
+    .contactformbox {
+        padding-left: 86px;
+        padding-top: 40px;
+    }
+    .contactheading h4 {
+        color: #7d2968;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    /*contact section end*/
+    /*quote section start*/
+    .row.get-quoterew {
+        padding: 30px 1px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-8.quoterow {
+        width: 100%;
+    }
+    .getquotetextbox h4 {
+        font-size: 21px;
+        font-weight: 600;
+        color: white;
+        line-height: 40px;
+        margin: 0;
+    }
+    .col-xs-12.col-sm-4.quoterow {
+        width: 100%;
+    }
+    .getquotebtnbox button {
+        width: 51%;
+    }
+
+    /*quote section end*/
+    /*quick link  start*/
+    .row.quickrwo {
+        padding: 100px 0px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-7.quickcol {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-5.quickcol {
+        width: 100%;
+    }
+    .quicktextbox p {
+        font-size: 14px;
+        color: #2e3b7c;
+        line-height: 28px;
+        margin: 0;
+        text-align: center;
+    }
+    .quicklinkbox {
+        float: none;
+        text-align: center;
+        padding-top: 50px;
+    }
+    ul.quickfooer {
+        padding: 0;
+    }
+    .quicklinkbox h5 {
+        color: #2e3b7c;
+        padding-bottom: 30px;
+        font-size: 18px;
+    }
+
+    /*quick link end*/
+}
+
+/*425-576*/
+@media only screen and (min-width: 425px) and (max-width: 575px) {
+    span.mobile-hiddden {
+        display: none;
+    }
+
+    a.navbar-brand.logoa {
+        padding-left: 38px;
+        width: 74%;
+    }
+    button.navbar-toggler.collapsed {
+        margin-right: 24px;
+        margin-left: 0px;
+        padding: 0;
+    }
+    ul.navbar-nav.ms-auto.liitem {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .togglebtndiv {
+        width: 20%;
+        padding-top: 13px;
+        margin-right: 8px;
+        margin-left: 0px;
+    }
+    /*header text and form start*/
+    .col-xs-12.col-sm-6.textdiv {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-6.formdiv {
+        width: 100%;
+    }
+    .banner-text h1 {
+        font-size: 28px;
+        font-weight: 900;
+        color: #fff;
+    }
+    section.header {
+        border-bottom-left-radius: 2rem;
+        border-bottom-right-radius: 2rem;
+        height: 1553px;
+    }
+    .form-row {
+        display: block;
+        justify-content: space-between;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 88%;
+        padding-left: 10px;
+    }
+    .form-input {
+        display: flex;
+        width: 100%;
+        height: 45px;
+        justify-content: space-between;
+    }
+    .form-item {
+        width: 100%;
+        padding-top: 36px;
+    }
+    button.form-submit-button {
+        width: 100%;
+    }
+    .form-row.btnrow {
+        padding: 0;
+        padding-top: 20px;
+    }
+    .banner-form {
+        padding: 12px;
+    }
+
+    /*header text and form end*/
+    /*fact start*/
+    .row.factrow {
+        padding-top: 32px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.factimg {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-6.factxt {
+        width: 100%;
+    }
+    .facttextbox h3 {
+        font-size: 24px;
+        font-weight: 600;
+        color: #273164;
+    }
+    .facttextbox {
+        padding-left: 30px;
+        padding-top: 35px;
+    }
+    span.fact-amount {
+        padding: 10px 20px;
+    }
+
+    /*fact end*/
+    /*projected section*/
+    .col-xs-12.col-sm-4.cardflex {
+        width: 33%;
+    }
+    .box {
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 20px 0px;
+        margin: 25px 0px;
+        border: 1px dashed;
+        border-radius: 10px;
+        width: 95%;
+    }
+    .box p {
+        font-size: 12px;
+        font-weight: 900;
+        line-height: 20px;
+        color: white;
+        padding-top: 30px;
+    }
+
+    /*projected end*/
+
+    /*benefit section start*/
+
+    .col-xs-12.col-sm-6.fitcol {
+        padding-right: 30px;
+        padding-left: 0px;
+        width: 100%;
+    }
+    .row.fitrow {
+        display: block;
+    }
+    .benefits-list li {
+        font-weight: 600;
+        font-size: 16px;
+        background-color: #f6f6f9;
+        padding: 20px;
+        margin: 30px 0;
+        width: 100%;
+        position: relative;
+    }
+    .fitborder {
+        width: 30%;
+        height: 5px;
+        background-color: #7d2968;
+        margin: auto;
+        border-radius: 10px;
+    }
+
+    /*benefit section end*/
+
+    /*about section start*/
+
+    .row.aboutrow {
+        padding: 110px 0px;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.abtdiv {
+        width: 100%;
+    }
+
+    /*about section end*/
+
+    /*contact section start*/
+
+    .row.contactrow {
+        width: 100%;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.contactcol {
+        width: 100%;
+    }
+    .contactimgbox img {
+        width: 100%;
+    }
+    .contactimgbox {
+        padding-left: 20px;
+    }
+    input.req.con {
+        color: #2e3b7c;
+        border: 1px solid #2e3b7c;
+        border-radius: 10px;
+        width: 85%;
+    }
+    .form-input.con-in {
+        width: 100%;
+    }
+    .form-item.con-input {
+        width: 100%;
+    }
+    .form-input.con-in textarea {
+        color: #2e3b7c;
+        border: 1px solid #2e3b7c;
+        border-radius: 10px;
+        padding: 15px;
+        width: 89%;
+        height: 185px;
+    }
+    .form-input button {
+        width: 31%;
+        border: none;
+        border-radius: 10px;
+        padding: 8px 14px;
+        background: #37397a;
+        color: white;
+        font-size: 18px;
+        font-weight: 600;
+        height: 52px;
+        margin-top: 30px;
+    }
+    .contactformbox {
+        padding-left: 50px;
+        padding-top: 40px;
+    }
+    .contactheading h4 {
+        color: #7d2968;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    /*contact section end*/
+
+    /*quote section start*/
+    .row.get-quoterew {
+        padding: 30px 1px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-8.quoterow {
+        width: 100%;
+    }
+    .getquotetextbox h4 {
+        font-size: 21px;
+        font-weight: 600;
+        color: white;
+        line-height: 32px;
+        margin: 0;
+    }
+    .col-xs-12.col-sm-4.quoterow {
+        width: 100%;
+    }
+    .getquotebtnbox button {
+        width: 70%;
+    }
+
+    /*quote section end*/
+    /*quick link  start*/
+    .row.quickrwo {
+        padding: 100px 0px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-7.quickcol {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-5.quickcol {
+        width: 100%;
+    }
+    .quicktextbox p {
+        font-size: 14px;
+        color: #2e3b7c;
+        line-height: 28px;
+        margin: 0;
+        text-align: center;
+    }
+    .quicklinkbox {
+        float: none;
+        text-align: center;
+        padding-top: 50px;
+    }
+    ul.quickfooer {
+        padding: 0;
+    }
+    .quicklinkbox h5 {
+        color: #2e3b7c;
+        padding-bottom: 30px;
+        font-size: 18px;
+    }
+
+    /*quick link end*/
+}
+
+/*375-425*/
+@media only screen and (min-width: 375px) and (max-width: 424px) {
+    span.mobile-hiddden {
+        display: none;
+    }
+    a.navbar-brand.logoa img {
+        width: 198px;
+    }
+    button.navbar-toggler.collapsed {
+        margin-right: 39px;
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+    a.navbar-brand.logoa {
+        padding-left: 48px;
+        padding-right: 0px;
+        margin: 0px;
+    }
+    ul.navbar-nav.ms-auto.liitem {
+        text-align: center;
+        padding-top: 30px;
+    }
+    /*header text and form start*/
+    .col-xs-12.col-sm-6.textdiv {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-6.formdiv {
+        width: 100%;
+    }
+    .banner-text h1 {
+        font-size: 28px;
+        font-weight: 900;
+        color: #fff;
+    }
+    section.header {
+        border-bottom-left-radius: 2rem;
+        border-bottom-right-radius: 2rem;
+        height: 1438px;
+    }
+    .form-row {
+        display: block;
+        justify-content: space-between;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 88%;
+        padding-left: 10px;
+    }
+    .form-input {
+        display: flex;
+        width: 100%;
+        height: 45px;
+        justify-content: space-between;
+    }
+    .form-item {
+        width: 100%;
+        padding-top: 36px;
+    }
+    button.form-submit-button {
+        width: 100%;
+    }
+    .form-row.btnrow {
+        padding: 0;
+        padding-top: 20px;
+    }
+    .banner-form {
+        padding: 12px;
+    }
+    .banner-form h2 {
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0;
+        color: white;
+        margin: 0;
+    }
+
+    /*header text and form end*/
+    /*fact start*/
+    .row.factrow {
+        padding-top: 32px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.factimg {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-6.factxt {
+        width: 100%;
+    }
+    .facttextbox h3 {
+        font-size: 20px;
+        font-weight: 600;
+        color: #273164;
+    }
+    .facttextbox {
+        padding-left: 18px;
+        padding-top: 35px;
+    }
+    span.fact-amount {
+        padding: 10px 20px;
+    }
+
+    /*fact end*/
+    /*projected section*/
+    .col-xs-12.col-sm-4.cardflex {
+        width: 33%;
+    }
+    .box {
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 20px 0px;
+        margin: 25px 0px;
+        border: 1px dashed;
+        border-radius: 10px;
+        width: 95%;
+    }
+    .box p {
+        font-size: 11px;
+        font-weight: 900;
+        line-height: 20px;
+        color: white;
+        padding-top: 30px;
+    }
+
+    /*projected end*/
+
+    /*benefit section start*/
+
+    .col-xs-12.col-sm-6.fitcol {
+        padding-right: 30px;
+        padding-left: 0px;
+        width: 100%;
+    }
+    .row.fitrow {
+        display: block;
+    }
+    .benefits-list li {
+        font-weight: 600;
+        font-size: 16px;
+        background-color: #f6f6f9;
+        padding: 20px;
+        margin: 30px 0;
+        width: 100%;
+        position: relative;
+    }
+
+    .fitborder {
+        width: 30%;
+        height: 5px;
+        background-color: #7d2968;
+        margin: auto;
+        border-radius: 10px;
+    }
+    /*benefit section end*/
+
+    /*about section start*/
+
+    .row.aboutrow {
+        padding: 110px 0px;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.abtdiv {
+        width: 100%;
+    }
+
+    /*about section end*/
+    /*contact section start*/
+
+    .row.contactrow {
+        width: 100%;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.contactcol {
+        width: 100%;
+    }
+    .contactimgbox img {
+        width: 100%;
+    }
+    .contactimgbox {
+        padding-left: 20px;
+    }
+    input.req.con {
+        color: #2e3b7c;
+        border: 1px solid #2e3b7c;
+        border-radius: 10px;
+        width: 85%;
+    }
+    .form-input.con-in {
+        width: 100%;
+    }
+    .form-item.con-input {
+        width: 100%;
+    }
+    .form-input.con-in textarea {
+        color: #2e3b7c;
+        border: 1px solid #2e3b7c;
+        border-radius: 10px;
+        padding: 15px;
+        width: 89%;
+        height: 185px;
+    }
+    .form-input button {
+        width: 31%;
+        border: none;
+        border-radius: 10px;
+        padding: 8px 14px;
+        background: #37397a;
+        color: white;
+        font-size: 18px;
+        font-weight: 600;
+        height: 52px;
+        margin-top: 30px;
+    }
+    .contactformbox {
+        padding-left: 50px;
+        padding-top: 40px;
+    }
+    .contactheading h4 {
+        color: #7d2968;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    /*contact section end*/
+
+    /*quote section start*/
+    .row.get-quoterew {
+        padding: 30px 1px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-8.quoterow {
+        width: 100%;
+    }
+    .getquotetextbox h4 {
+        font-size: 21px;
+        font-weight: 600;
+        color: white;
+        line-height: 32px;
+        margin: 0;
+    }
+    .col-xs-12.col-sm-4.quoterow {
+        width: 100%;
+    }
+    .getquotebtnbox button {
+        width: 70%;
+        padding: 15px 0px;
+    }
+
+    /*quote section end*/
+    /*quick link  start*/
+    .row.quickrwo {
+        padding: 100px 0px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-7.quickcol {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-5.quickcol {
+        width: 100%;
+    }
+    .quicktextbox p {
+        font-size: 14px;
+        color: #2e3b7c;
+        line-height: 28px;
+        margin: 0;
+        text-align: center;
+    }
+    .quicklinkbox {
+        float: none;
+        text-align: center;
+        padding-top: 50px;
+    }
+    ul.quickfooer {
+        padding: 0;
+    }
+    .quicklinkbox h5 {
+        color: #2e3b7c;
+        padding-bottom: 30px;
+        font-size: 18px;
+    }
+
+    /*quick link end*/
+}
+
+/*320-375*/
+@media only screen and (min-width: 320px) and (max-width: 375px) {
+    span.mobile-hiddden {
+        display: none;
+    }
+    a.navbar-brand.logoa img {
+        width: 189px;
+    }
+    a.navbar-brand.logoa {
+        padding-right: 0px;
+        margin: 0px;
+    }
+
+    ul.navbar-nav.ms-auto.liitem {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .togglebtndiv {
+        width: 17%;
+        margin-top: 10px;
+        margin-right: 20px;
+    }
+    /*header text and form start*/
+    .col-xs-12.col-sm-6.textdiv {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-6.formdiv {
+        width: 100%;
+    }
+    .banner-text h1 {
+        font-size: 28px;
+        font-weight: 900;
+        color: #fff;
+    }
+    section.header {
+        border-bottom-left-radius: 2rem;
+        border-bottom-right-radius: 2rem;
+        height: 1614px;
+    }
+    .form-row {
+        display: block;
+        justify-content: space-between;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .form-input input {
+        border: none;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 88%;
+        padding-left: 10px;
+    }
+    .form-input {
+        display: flex;
+        width: 100%;
+        height: 45px;
+        justify-content: space-between;
+    }
+    .form-item {
+        width: 100%;
+        padding-top: 36px;
+    }
+    button.form-submit-button {
+        width: 100%;
+    }
+    .form-row.btnrow {
+        padding: 0;
+        padding-top: 20px;
+    }
+    .banner-form {
+        padding: 12px;
+    }
+    .banner-form h2 {
+        font-size: 27px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0;
+        color: white;
+        margin: 0;
+    }
+
+    /*header text and form end*/
+    /*fact start*/
+    .row.factrow {
+        padding-top: 32px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.factimg {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-6.factxt {
+        width: 100%;
+    }
+    .facttextbox h3 {
+        font-size: 20px;
+        font-weight: 600;
+        color: #273164;
+    }
+    .facttextbox {
+        padding-left: 0px;
+        padding-top: 35px;
+    }
+    span.fact-amount {
+        padding: 10px 10px;
+        width: 94%;
+        font-size: 55px;
+        text-align: center;
+    }
+
+    /*fact end*/
+    /*projected section*/
+    .col-xs-12.col-sm-4.cardflex {
+        width: 33%;
+    }
+    .box {
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 20px 0px;
+        margin: 25px 0px;
+        border: 1px dashed;
+        border-radius: 10px;
+        width: 111%;
+    }
+    .box p {
+        font-size: 11px;
+        font-weight: 900;
+        line-height: 20px;
+        color: white;
+        padding-top: 30px;
+    }
+    .colordiv {
+        width: 70px;
+        height: 59px;
+        border-radius: 10px;
+        margin: 0 auto;
+        color: #2e3b7c !important;
+        background-image: -webkit-linear-gradient(90deg, rgb(46, 59, 124) 0%, rgba(46, 59, 124, 0) 100%);
+    }
+
+    /*projected end*/
+
+    /*benefit section start*/
+
+    .col-xs-12.col-sm-6.fitcol {
+        padding-right: 30px;
+        padding-left: 0px;
+        width: 100%;
+    }
+    .row.fitrow {
+        display: block;
+    }
+    .benefits-list li {
+        font-weight: 600;
+        font-size: 15px;
+        background-color: #f6f6f9;
+        padding: 20px;
+        margin: 30px 0;
+        width: 100%;
+        position: relative;
+    }
+
+    .fitborder {
+        width: 30%;
+        height: 5px;
+        background-color: #7d2968;
+        margin: auto;
+        border-radius: 10px;
+    }
+    section.benefit {
+        height: 1000px;
+    }
+    /*benefit section end*/
+
+    /*about section start*/
+
+    .row.aboutrow {
+        padding: 110px 0px;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.abtdiv {
+        width: 100%;
+    }
+
+    /*about section end*/
+
+    /*contact section start*/
+
+    .row.contactrow {
+        width: 100%;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-6.contactcol {
+        width: 100%;
+    }
+    .contactimgbox img {
+        width: 100%;
+    }
+    .contactimgbox {
+        padding-left: 20px;
+    }
+    input.req.con {
+        color: #2e3b7c;
+        border: 1px solid #2e3b7c;
+        border-radius: 10px;
+        width: 100%;
+    }
+    .form-input.con-in {
+        width: 100%;
+    }
+    .form-item.con-input {
+        width: 100%;
+    }
+    .form-input.con-in textarea {
+        color: #2e3b7c;
+        border: 1px solid #2e3b7c;
+        border-radius: 10px;
+        padding: 15px;
+        width: 100%;
+        height: 185px;
+    }
+    .form-input button {
+        width: 54%;
+        border: none;
+        border-radius: 10px;
+        padding: 8px 14px;
+        background: #37397a;
+        color: white;
+        font-size: 18px;
+        font-weight: 600;
+        height: 52px;
+        margin-top: 30px;
+    }
+    .contactformbox {
+        padding-left: 27px;
+        padding-top: 40px;
+    }
+    .contactheading h4 {
+        color: #7d2968;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    /*contact section end*/
+
+    /*quote section start*/
+    .row.get-quoterew {
+        padding: 30px 1px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-8.quoterow {
+        width: 100%;
+    }
+    .getquotetextbox h4 {
+        font-size: 16px;
+        font-weight: 600;
+        color: white;
+        line-height: 32px;
+        margin: 0;
+    }
+    .col-xs-12.col-sm-4.quoterow {
+        width: 100%;
+    }
+    .getquotebtnbox button {
+        width: 92%;
+        padding: 15px 0px;
+    }
+
+    /*quote section end*/
+    /*quick link  start*/
+    .row.quickrwo {
+        padding: 100px 0px;
+        align-items: center;
+        display: block;
+    }
+    .col-xs-12.col-sm-7.quickcol {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-5.quickcol {
+        width: 100%;
+    }
+    .quicktextbox p {
+        font-size: 14px;
+        color: #2e3b7c;
+        line-height: 28px;
+        margin: 0;
+        text-align: center;
+    }
+    .quicklinkbox {
+        float: none;
+        text-align: center;
+        padding-top: 50px;
+    }
+    ul.quickfooer {
+        padding: 0;
+    }
+    .quicklinkbox h5 {
+        color: #2e3b7c;
+        padding-bottom: 30px;
+        font-size: 18px;
+    }
+
+    /*quick link end*/
+}
